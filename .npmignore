@@ -1,6 +1,4 @@
 /node_modules
 *.log
 /test
-Gruntfile.js
-.jshintrc
 .npmignore
