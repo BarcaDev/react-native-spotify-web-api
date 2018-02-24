@@ -7,12 +7,12 @@ Project owners are [thelinmichael](https://github.com/thelinmichael) and [JMPere
 
 This was cloned from [spotify-web-api-node](https://github.com/thelinmichael/spotify-web-api-node) and just updated for React Native.
 
-##Installation
+## Installation
 
 Clone `react-native` branch by the following command.
 ```
 npm install --save https://github.com/bdavid68/react-native-spotify-web-api.git#react-native
 ```
 
-##Docs
+## Docs
 Please see details on [spotify-web-api-node](https://github.com/thelinmichael/spotify-web-api-node).
