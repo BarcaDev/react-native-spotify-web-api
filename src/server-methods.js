@@ -1,5 +1,7 @@
 'use strict';
 
+import { Buffer } from 'buffer';
+
 var AuthenticationRequest = require('./authentication-request');
 var HttpManager = require('./http-manager');
 
