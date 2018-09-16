@@ -8,7 +8,7 @@ This was cloned from [spotify-web-api-node](https://github.com/thelinmichael/spo
 ## Installation
 
 ```sh
-npm install --save https://github.com/bdavid68/react-native-spotify-web-api.git#master
+npm install --save https://github.com/bbdroid/react-native-spotify-web-api.git#master
 ```
 
 ## Docs

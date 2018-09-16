@@ -1,14 +1,14 @@
 {
   "name": "react-native-spotify-web-api",
   "version": "0.1.0",
-  "homepage": "https://github.com/bdavid68/react-native-spotify-web-api",
+  "homepage": "https://github.com/bbdroid/react-native-spotify-web-api",
   "description": "A React Native wrapper for Spotify's Web API",
   "main": "./src/index.js",
-  "author": "David Bala <b.david6008@gmail.com>",
+  "author": "BBDroid <st.bbdroid@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bdavid68/react-native-spotify-web-api"
+    "url": "https://github.com/bbdroid/react-native-spotify-web-api"
   },
   "dependencies": {
     "superagent": "^2.0.0",
