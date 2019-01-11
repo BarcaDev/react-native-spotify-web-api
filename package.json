@@ -1,6 +1,6 @@
 {
   "name": "react-native-spotify-web-api",
-  "version": "0.1.1",
+  "version": "2.5.1",
   "homepage": "https://github.com/bbdroid/react-native-spotify-web-api",
   "description": "A React Native wrapper for Spotify's Web API",
   "main": "./src/index.js",
