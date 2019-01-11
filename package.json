@@ -4,7 +4,7 @@
   "homepage": "https://github.com/bbdroid/react-native-spotify-web-api",
   "description": "A React Native wrapper for Spotify's Web API",
   "main": "./src/index.js",
-  "author": "BBDroid <st.bbdroid@gmail.com>",
+  "author": "Ato",
   "license": "MIT",
   "repository": {
     "type": "git",
